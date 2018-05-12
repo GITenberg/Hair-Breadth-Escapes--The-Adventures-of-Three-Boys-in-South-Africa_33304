@@ -1,0 +1,31 @@
+_repo: Hair-Breadth-Escapes--The-Adventures-of-Three-Boys-in-South-Africa_33304
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Adams, H. C. (Henry Cadwallader)
+    alias: Adams, Henry Cadwallader
+    birthdate: 1817
+    deathdate: 1899
+    gutenberg_agent_id: '36322'
+    url: http://www.gutenberg.org/2009/agents/36322
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Cadwallader_Adams
+description: ''
+gutenberg_issued: '2010-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33304'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Hunting -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'South Africa -- Juvenile fiction'
+title: 'Hair-Breadth Escapes: The Adventures of Three Boys in South Africa'
+url: http://www.gutenberg.org/ebooks/33304
